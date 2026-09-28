@@ -1,0 +1,15 @@
+{
+  "name": "Vishwa Infra Business Suite",
+  "short_name": "Vishwa Infra",
+  "description": "Quotations, GST invoices, repair bills, work orders, payments and reports for Vishwa Infra Solutions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1224",
+  "theme_color": "#1d3ad0",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

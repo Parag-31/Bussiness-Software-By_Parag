@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build output
+client/dist/
+server/dist/
+
+# Business data — never commit real customer/invoice data
+server/data/
+
+# Secrets — copy .env.example to .env and fill in your own values
+.env
+.env.local
+server/.env
+client/.env
+devpin.txt
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor/OS
+.DS_Store
+.vscode/
+.idea/
