@@ -133,9 +133,9 @@ Server settings live in `server/.env`. Copy `server/.env.example` to `server/.en
 |Variable|Purpose|Default|
 |-|-|-|
 |`PORT`|Port the server listens on|`4000`|
-|`ADMIN\_TEMP\_PASSWORD`|First-time password for `admin`|`admin123`|
-|`PARAG\_TEMP\_PASSWORD`|First-time password for `parag`|`Parag@2026`|
-|`VISHWAS\_TEMP\_PASSWORD`|First-time password for `vishwas`|`Vishwas@2026`|
+|`ADMIN\_TEMP\_PASSWORD`|First-time password for `admin`|
+|`PARAG\_TEMP\_PASSWORD`|First-time password for `parag`|
+|`VISHWAS\_TEMP\_PASSWORD`|First-time password for `vishwas`|
 |`CORS\_ORIGIN`|Restrict which origin may call the API|`\*` (any)|
 |`DROPBOX\_ACCESS\_TOKEN`|Enables Dropbox cloud backup|empty (off)|
 |`DROPBOX\_FOLDER`|Dropbox folder for backups|`/Vishwa Infra Backups`|
