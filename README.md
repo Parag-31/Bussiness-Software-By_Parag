@@ -128,8 +128,6 @@ Enter your UPI ID once under **Settings → Company profile**. Every printed GST
 
 ## Configuration
 
-Server settings live in `server/.env`. Copy `server/.env.example` to `server/.env` and edit. Every setting is optional; without a `.env` file the application uses the defaults shown.
-
 |Variable|Purpose|Default|
 |-|-|-|
 |`PORT`|Port the server listens on|`4000`|
