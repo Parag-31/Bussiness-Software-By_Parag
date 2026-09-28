@@ -86,7 +86,7 @@ For a one-touch launcher, run **`Create-Desktop-Shortcut.bat`** once. The result
 
 Three accounts are created on first start.
 
-Default temporary passwords are `admin123`, `Parag@2026` and `Vishwas@2026`. Parag and Vishwas are required to choose a new password at first sign-in. **Change the `admin` password in Settings immediately**, or set your own temporary passwords before first start (see [Configuration](#configuration)).
+Default temporary passwords are `. Parag and Vishwas are required to choose a new password at first sign-in. **Change the `admin` password in Settings immediately**, or set your own temporary passwords before first start (see [Configuration](#configuration)).
 
 |Capability|Full Access|Access (No Build)|
 |-|-|-|
